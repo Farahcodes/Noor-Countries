@@ -2,6 +2,9 @@ body {
   background-color: #fdfdfd;
   font-family: "Montserrat", sans-serif;
   margin: 0;
+  background-image: url("./assets/pexels-anna-shvets-5217882.jpg");
+  background-size: cover;
+  background-position: center center;
 }
 
 .container {
